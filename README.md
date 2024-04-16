@@ -1,2 +1,2 @@
-# tarifvergleiche.github.io
-Tarifvergleiche über Tarifcheck-Partnerprogramm und CHECK24-Partnerprogramm.
+# Tarifvergleiche
+Tarifvergleiche über Tarifcheck-Partnerprogramm und CHECK24-Partnerprogramm. Sowie Kunden werben Kunden (KwK) bzw. Freunde werben Aktionen.
